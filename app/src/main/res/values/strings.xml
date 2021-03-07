@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Randtronomy</string>
+    <string name="dummy_date">Saturday, 09 December 2020</string>
+    <string name="dummy_title">The Very Large Array at Moonset</string>
+    <string name="dummy_description">An inspirational sight, these giant dish antennas of the Karl G. Jansky Very Large Array (VLA) rise above the New Mexico desert at moonset.  Mounted on piers but transportable on railroad tracks to change theVLA’s configuration, its 27 operating antennas are
+each house-sized (25 meters across) and can be
+organized into an array spanning the size of a city
+(35 kilometers). A prolific radio astronomy workhorse, the VLA has been used to discover water on planet Mercury, radio-bright coronae around stars,
+micro-quasars in our Galaxy, gravitationally-induced
+Einstein rings around distant galaxies, and radio
+counterparts to cosmologically distant gamma-ray
+bursts. Its vast size has allowed astronomers to study </string>
+    <string name="title_image_content">Image Content</string>
+    <string name="title_image_background">Image Background</string>
+</resources>
