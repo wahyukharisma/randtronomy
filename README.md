@@ -1,10 +1,10 @@
 # Randtronomy
 Show random astronomy information include picture, 
-using data from NASA APIs https://api.nasa.gov/ 
+using data from <b>NASA APIs</b> https://api.nasa.gov/ 
 
-MVVM Pattern and coroutines
-DI : Hilt
-Network : Retrofit
-Network Monitoring : Stetho
+<br>MVVM Pattern and Coroutines</br>
+<br>Dependency Injection: Hilt</br>
+<br>Network : Retrofit</br>
+<br>Network Monitoring : Stetho</br>
 
 
